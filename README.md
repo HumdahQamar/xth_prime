@@ -1,2 +1,2 @@
-# xth_prime
+# Xth Prime
 Find the Xth prime number
